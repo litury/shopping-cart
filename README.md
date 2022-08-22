@@ -1,7 +1,9 @@
 # Корзина покупок на Vanilla JS
 
 Реализация базового функционала добавления/удаления товаров 
-https://litury.github.io/shopping-cart/
+
+Доступ [https://litury.github.io/shopping-cart](https://litury.github.io/shopping-cart/)
+
 
 ## Как запустить приложение?
 
