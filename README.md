@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 
-Откройте [http://localhost:1234](http://localhost:1234/), если этого не произошло
+Откройте [http://localhost:1234](http://localhost:1234/)
 
 
 
